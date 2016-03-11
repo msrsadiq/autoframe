@@ -1,4 +1,4 @@
-package com.test.research;
+package com.ces.research;
 
 
 import io.appium.java_client.AppiumDriver;
